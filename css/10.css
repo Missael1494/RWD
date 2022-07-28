@@ -1,0 +1,11 @@
+img {
+    max-width: 100%;
+    display: block;
+}
+
+p {
+    margin: 0;
+    background-color: red;
+}
+
+/*imagenresponsive
